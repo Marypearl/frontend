@@ -1,7 +1,7 @@
 name: Build, Push, and Deploy Frontend
 
 on:
-  push:
+  push
     branches:
       - main
 
